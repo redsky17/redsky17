@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 -  👨🏻‍💻 Admin / co-developer for [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 
-You can find me on <a rel="me" href="https://fosstodon.org/@redsky17">Mastodon</a>
+You can find me on Mastodon:<a rel="me" href="https://fosstodon.org/@redsky17">https://fosstodon.org/@redsky17</a>
