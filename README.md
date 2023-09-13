@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -  👨🏻‍💻 Admin / co-developer for [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 
 You can find me on the fediverse:<a rel="me" href="https://nheko.io/@red_sky">https://nheko.io/@red_sky</a>
+<link rel="me" href="https://nheko.io/@red_sky">
